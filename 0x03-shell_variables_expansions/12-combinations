@@ -1,2 +1,2 @@
 #!/bin/bash
-echo { a..za..z ) | tr ' \ n ' | grep -v ' 00 '
+echo { a..za..z ) | tr ''' \ n ' | grep -v ' 00 '
